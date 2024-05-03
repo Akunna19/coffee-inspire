@@ -1,0 +1,140 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    background-color: bisque;
+    color: blueviolet;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    justify-content: space-between;
+}
+.navbutton{
+    text-decoration: none;
+}
+.homepage{
+    text-decoration: none;
+}
+.mainimage{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+body{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+font-size: 25px;
+text-align: center;
+}
+
+#navbar1  {
+display: flex;
+justify-content: center;
+justify-content: space-between;
+height: 400px;
+
+
+margin-top: 50px;
+
+}
+
+#image1 {
+display: flex;
+flex-direction: column;
+width: 30%;
+/* height: 250px; */
+}
+
+
+.pastries{
+    class/id margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    height: 400px;
+    
+
+    margin: 50px;
+}
+.text1{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+  font-size: 22px; 
+  margin: 4px;
+  color: brown;
+}
+
+
+
+
+#navbar2 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    height: 200px;
+    border: red 2px solid;
+
+    margin-top: 50px;
+
+}
+
+
+.image2{
+    
+    display: flex;
+    flex-direction: column;
+    width: 30%; 
+}
+
+.text2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 22px;
+    margin: 4px;
+    color: brown;
+}
+
+.link{
+    text-decoration: none;
+
+}
+
+
+#navbar3 {
+    display: flex;
+    justify-content: center;
+    justify-content: space-between;
+    }
+    
+    #navbar3 {
+    height: 200px;
+    
+    }
+    
+    #image3 {
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    height: 250px;
+    border: red 2px solid;
+
+    margin-top: ;
+
+    }
+    
+    .text3{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
+      font-size: 22px; 
+      margin: 4px;
+      color: brown;
+
+    }
+
+    .link{
+        text-decoration: none;
+    
+    }
+
+
+
+
+
+
